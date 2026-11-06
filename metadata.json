@@ -1,0 +1,6 @@
+{
+  "name": "Banco de Iniciativas de IA y BI - HILA",
+  "description": "Sistema institucional para registrar, consultar y gestionar iniciativas, ideas o invenciones con Inteligencia Artificial del Hospital Infantil Los Ángeles (HILA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
